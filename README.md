@@ -16,4 +16,6 @@ Receive Output
 
 ![investment_result](./images/inv_result.png)
 
+UML Sequence Diagram
+
 ![uml image](./images/uml.png)
